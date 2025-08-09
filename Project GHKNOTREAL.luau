@@ -48,8 +48,8 @@ local title = Instance.new("TextLabel")
 title.Size = UDim2.new(1, -48, 1, 0)
 title.Position = UDim2.new(0, 8, 0, 0)
 title.BackgroundTransparency = 1
-title.Text = "🧪 PROJECT GHKNOTREAL"
-title.TextColor3 = Color3.new(1, 1, 1)
+title.Text = "LUNARIA (beta)"
+title.TextColor3 = Color3.new(245, 1, 245)
 title.Font = Enum.Font.SourceSansBold
 title.TextSize = 20
 title.TextXAlignment = Enum.TextXAlignment.Left
@@ -244,3 +244,4 @@ end)
 
 -- Start on Executor tab
 setTabSelected("exec")
+
